@@ -1,6 +1,6 @@
 # 🎉 Blum Crack
 
-Blumtod is an automated tool designed for auto-claiming rewards and completing tasks on the Blum platform (@blum). With proxy support, multi-account management, and task automation, Blumtod makes the process easier and faster.
+Blumcrk is an automated tool designed for auto-claiming rewards and completing tasks on the Blum platform (@blum). With proxy support, multi-account management, and task automation, Blumtod makes the process easier and faster.
 
 ## ⚠️ Warning
 
