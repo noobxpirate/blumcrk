@@ -369,10 +369,12 @@ class blumcrk:
 
     def main(self):
         banner = f"""
-{magenta}??????  ??    •      {putih}Blumcrk Auto Claim for {hijau}blum
-{magenta}??????  ???????????  {hijau}Author : {putih}Noob Pirate
-{magenta}??????  ??? ???? ??  {putih}Github : {hijau}https://github.com/noobxpirate
-{magenta}              ?      {hijau}Note : {putih}Every Action Has a Consequence
+███╗   ██╗ ██████╗  ██████╗ ██████╗     {putih}Blumcrk Auto Claim for {hijau}blum
+████╗  ██║██╔═══██╗██╔═══██╗██╔══██╗  {hijau}Author : {putih}Noob Pirate
+██╔██╗ ██║██║   ██║██║   ██║██████╔╝   {putih}Github : {hijau}https://github.com/noobxpirate
+██║╚██╗██║██║   ██║██║   ██║██╔══██╗   {hijau}Note : {putih}Every Action Has a Consequence
+██║ ╚████║╚██████╔╝╚██████╔╝██████╔╝  {putih}Chat : {hijau}https://t.me/piratexchat 
+╚═╝  ╚═══╝ ╚═════╝  ╚═════╝ ╚═════╝ 
         """
         arg = argparse.ArgumentParser()
         arg.add_argument(
