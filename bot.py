@@ -23,7 +23,7 @@ hitam = Fore.LIGHTBLACK_EX
 magenta = Fore.LIGHTMAGENTA_EX
 
 
-class BlumTod:
+class blumcrk:
     def __init__(self):
         self.base_headers = {
             "accept": "application/json, text/plain, */*",
@@ -369,10 +369,10 @@ class BlumTod:
 
     def main(self):
         banner = f"""
-{magenta}┏┓┳┓┏┓  ┏┓    •      {putih}BlumTod Auto Claim for {hijau}blum
-{magenta}┗┓┃┃┗┓  ┃┃┏┓┏┓┓┏┓┏╋  {hijau}Author : {putih}AkasakaID
-{magenta}┗┛┻┛┗┛  ┣┛┛ ┗┛┃┗ ┗┗  {putih}Github : {hijau}https://github.com/AkasakaID
-{magenta}              ┛      {hijau}Note : {putih}Every Action Has a Consequence
+{magenta}??????  ??    •      {putih}Blumcrk Auto Claim for {hijau}blum
+{magenta}??????  ???????????  {hijau}Author : {putih}Noob Pirate
+{magenta}??????  ??? ???? ??  {putih}Github : {hijau}https://github.com/noobxpirate
+{magenta}              ?      {hijau}Note : {putih}Every Action Has a Consequence
         """
         arg = argparse.ArgumentParser()
         arg.add_argument(
@@ -465,7 +465,7 @@ class BlumTod:
 
 if __name__ == "__main__":
     try:
-        app = BlumTod()
+        app = blumcrk()
         app.load_config()
         app.main()
     except KeyboardInterrupt:
